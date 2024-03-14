@@ -25,3 +25,5 @@ Configured Tailwind
 ## Login Form
 
     Login/SIgn Up functionality
+    Form Validation
+    useRef Hook
