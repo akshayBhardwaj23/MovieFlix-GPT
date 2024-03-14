@@ -19,3 +19,9 @@ Configured Tailwind
     - Netflix GPT
         - Search Bar
         - Movie Suggestions
+
+## Header Setup
+
+## Login Form
+
+    Login/SIgn Up functionality
