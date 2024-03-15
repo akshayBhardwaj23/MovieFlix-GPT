@@ -24,6 +24,12 @@ Configured Tailwind
 
 ## Login Form
 
-    Login/SIgn Up functionality
-    Form Validation
-    useRef Hook
+    - Login/SIgn Up functionality
+    - Form Validation
+    - useRef Hook
+
+## Authentication
+
+    - Google Firebase setup
+    - Deploying on Firebase
+    - Creating Sign Up in Firebase
