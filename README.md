@@ -33,3 +33,16 @@ Configured Tailwind
     - Google Firebase setup
     - Deploying on Firebase
     - Creating Sign Up in Firebase
+    - Implementing Sign In User API
+
+## Redux Setup
+
+    - Storing user data in redux
+    - Creating user Slice
+
+## Sign Out and User Details
+
+## Fetch Movies data
+
+    - Fetch movie data from TMDB
+    - Design Browse Page
