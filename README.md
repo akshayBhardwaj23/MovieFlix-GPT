@@ -42,6 +42,9 @@ Configured Tailwind
 
 ## Sign Out and User Details
 
+    - Bug Fixes of diplay name and profile picture
+    - Controlling route of logged in and logged out uers
+
 ## Fetch Movies data
 
     - Fetch movie data from TMDB
