@@ -59,3 +59,5 @@ Configured Tailwind
     - Fetch data for trailer video
     - Update store with trailer video
     - Embedding YouTube video
+
+    - Secondary Container Setup
