@@ -44,8 +44,18 @@ Configured Tailwind
 
     - Bug Fixes of diplay name and profile picture
     - Controlling route of logged in and logged out uers
+    - Unsubscribed onAuthStateChanged callback
 
 ## Fetch Movies data
 
     - Fetch movie data from TMDB
     - Design Browse Page
+    - Creating movie Slice
+    - Update store with movie data
+
+## Browse Page
+
+    - Setup Video Title and Video Background
+    - Fetch data for trailer video
+    - Update store with trailer video
+    - Embedding YouTube video
