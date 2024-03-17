@@ -67,3 +67,4 @@ Configured Tailwind
 ## GPT Integration
 
     - GPT Search Bar/Page
+    - GPT API
