@@ -61,3 +61,9 @@ Configured Tailwind
     - Embedding YouTube video
 
     - Secondary Container Setup
+
+## Multilingual Feature
+
+## GPT Integration
+
+    - GPT Search Bar/Page
