@@ -68,3 +68,6 @@ Configured Tailwind
 
     - GPT Search Bar/Page
     - GPT API
+    - GPT Search API call to TMDB
+    - Memoization
+    - Mobile Responsive
