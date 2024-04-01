@@ -4,7 +4,7 @@ An online movie repository app, that provides you updates on all the latest movi
 
 **NOTE: This app might not work in some locations, please use a VPN if that is the case.
 
-This app is built using React JS, and Redux Toolkit. The data is being fetched from 'The MovieDB Api'. For authentication and authorization, the app is integrated with **Firebase**.
+This app is built using **React JS, and Redux Toolkit.** The data is being fetched from 'The MovieDB Api'. For authentication and authorization, the app is integrated with **Firebase**. The app is also integrated with **GPT Api** , moreover **multilingual support** is also present.
 
 # Features
 
@@ -45,7 +45,7 @@ This app is built using React JS, and Redux Toolkit. The data is being fetched f
 
 ## Sign Out and User Details
 
-    - Bug Fixes of diplay name and profile picture
+    - Bug Fixes of display name and profile picture
     - Controlling route of logged in and logged out uers
     - Unsubscribed onAuthStateChanged callback
 
