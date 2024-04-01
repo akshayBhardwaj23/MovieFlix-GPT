@@ -4,7 +4,7 @@ An online movie repository app, that provides you updates on all the latest movi
 
 **NOTE: This app might not work in some locations, please use a VPN if that is the case.
 
-### This app is built using React JS, and Redux Toolkit. The data is being fetched from 'The MovieDB Api'. For authentication and authorization, the app is integrated with **Firebase**.
+This app is built using React JS, and Redux Toolkit. The data is being fetched from 'The MovieDB Api'. For authentication and authorization, the app is integrated with **Firebase**.
 
 # Features
 
