@@ -1,7 +1,10 @@
 # Netflix GPT
 
-Create React App
-Configured Tailwind
+An online movie repository app, that provides you updates on all the latest movies and gives you the ability to find the movies you like with the help of AI. To use this app simply create an account and that's it, you will get access to the repository. 
+
+**NOTE: This app might not work in some locations, please use a VPN if that is the case.
+
+### This app is built using React JS, and Redux Toolkit. The data is being fetched from 'The MovieDB Api'. For authentication and authorization, the app is integrated with **Firebase**.
 
 # Features
 
